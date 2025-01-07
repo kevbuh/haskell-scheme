@@ -9,4 +9,5 @@ Scheme is a minimalist, functional Lisp dialect known for its simplicity, first-
 [Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language)).
 
 # Getting Started
+- ```cabal run```
 - run examples from [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html).  
